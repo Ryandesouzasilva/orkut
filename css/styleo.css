@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(231, 196, 239);
+}
+#img1{
+    margin-left: 450px;
+    align-items: center;
+}
+#fd1{
+    margin-top: 25px;
+    margin-left: 320px;
+    background-color: rgb(255, 255, 255);
+    height: 380px;
+    width: 550px;
+    border-radius: 20px;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    align-items: center;
+}
+
+
+#btn1{
+    margin-top: 15px;
+    border-radius: 5px;
+    margin-left: 220px;
+    border-color:rgb(255, 0, 255);
+    background-color: rgb(255, 0, 255);
+    align-items: center;
+}
+
+
+
+#div1{
+    align-items: center;
+    margin-top: 5px;
+    
+}
+
+#div2{
+    align-items: center;
+    margin-top: 15px;
+    
+}
+
+#div3{
+    align-items: center;
+    margin-top: 135px;
+    width: 200px;
+}
+#in1{
+    align-items: center;
+    margin-left: 175px;
+}
+#in2{
+    align-items: center;
+    margin-left: 175px;
+}
